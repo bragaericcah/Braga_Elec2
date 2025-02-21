@@ -1,0 +1,116 @@
+name,rating,genre,year,released,score,votes,director,writer,star,country,budget,gross,company,runtime
+Gladiator,R,Action,2000,"May 5, 2000 (United States)",8.5,1400000.0,Ridley Scott,David Franzoni,Russell Crowe,United States,103000000.0,465380802.0,Dreamworks Pictures,155.0
+Requiem for a Dream,Not Rated,Drama,2000,"December 15, 2000 (United States)",8.3,786000.0,Darren Aronofsky,Hubert Selby Jr.,Ellen Burstyn,United States,4500000.0,7390108.0,Artisan Entertainment,102.0
+Memento,R,Mystery,2000,"May 25, 2001 (United States)",8.4,1200000.0,Christopher Nolan,Christopher Nolan,Guy Pearce,United States,9000000.0,40047078.0,Newmarket Capital Group,113.0
+Amores Perros,R,Drama,2000,"April 13, 2001 (United States)",8.1,228000.0,Alejandro G. Iñárritu,Guillermo Arriaga,Emilio Echevarría,Mexico,2000000.0,20908467.0,Altavista Films,154.0
+Dancer in the Dark,R,Crime,2000,"October 6, 2000 (United States)",8.0,105000.0,Lars von Trier,Lars von Trier,Björk,Denmark,12800000.0,40059672.0,Zentropa Entertainments,140.0
+The Lord of the Rings: The Fellowship of the Ring,PG-13,Action,2001,"December 19, 2001 (United States)",8.8,1700000.0,Peter Jackson,J.R.R. Tolkien,Elijah Wood,New Zealand,93000000.0,897690072.0,New Line Cinema,178.0
+"Monsters, Inc.",G,Animation,2001,"November 2, 2001 (United States)",8.1,838000.0,Pete Docter,Pete Docter,Billy Crystal,United States,115000000.0,579707738.0,Pixar Animation Studios,92.0
+Spirited Away,PG,Animation,2001,"March 28, 2003 (United States)",8.6,679000.0,Hayao Miyazaki,Hayao Miyazaki,Daveigh Chase,Japan,19000000.0,355475245.0,Tokuma Shoten,125.0
+Donnie Darko,R,Drama,2001,"January 19, 2001 (Mexico)",8.0,755000.0,Richard Kelly,Richard Kelly,Jake Gyllenhaal,United States,6000000.0,6981586.0,Pandora Cinema,113.0
+A Beautiful Mind,PG-13,Biography,2001,"January 4, 2002 (United States)",8.2,871000.0,Ron Howard,Akiva Goldsman,Russell Crowe,United States,58000000.0,316791257.0,Universal Pictures,135.0
+Amélie,R,Comedy,2001,"February 8, 2002 (United States)",8.3,717000.0,Jean-Pierre Jeunet,Guillaume Laurant,Audrey Tautou,France,10000000.0,173997108.0,Claudie Ossard Productions,122.0
+The Pianist,R,Biography,2002,"March 28, 2003 (United States)",8.5,756000.0,Roman Polanski,Ronald Harwood,Adrien Brody,United Kingdom,35000000.0,120072577.0,R.P. Productions,150.0
+The Lord of the Rings: The Two Towers,PG-13,Action,2002,"December 18, 2002 (United States)",8.7,1500000.0,Peter Jackson,J.R.R. Tolkien,Elijah Wood,New Zealand,94000000.0,947495095.0,New Line Cinema,179.0
+Catch Me If You Can,PG-13,Biography,2002,"December 25, 2002 (United States)",8.1,866000.0,Steven Spielberg,Jeff Nathanson,Leonardo DiCaprio,United States,52000000.0,352114312.0,Dreamworks Pictures,141.0
+Infernal Affairs,R,Action,2002,"December 12, 2002 (Hong Kong)",8.0,120000.0,Andrew Lau,Alan Mak,Andy Lau,Hong Kong,6428966.0,8836958.0,Media Asia Films,101.0
+Kill Bill: Vol. 1,R,Action,2003,"October 10, 2003 (United States)",8.1,1000000.0,Quentin Tarantino,Quentin Tarantino,Uma Thurman,United States,30000000.0,180906076.0,Miramax,111.0
+Pirates of the Caribbean: the Curse of the Black Pearl,PG-13,Action,2003,"July 9, 2003 (United States)",8.0,1000000.0,Gore Verbinski,Ted Elliott,Johnny Depp,United States,140000000.0,654264015.0,Walt Disney Pictures,143.0
+The Lord of the Rings: The Return of the King,PG-13,Action,2003,"December 17, 2003 (United States)",8.9,1700000.0,Peter Jackson,J.R.R. Tolkien,Elijah Wood,New Zealand,94000000.0,1146030912.0,New Line Cinema,201.0
+Oldboy,R,Action,2003,"November 21, 2003 (South Korea)",8.4,532000.0,Park Chan-Wook,Garon Tsuchiya,Choi Min-sik,South Korea,3000000.0,15189934.0,Show East,120.0
+Big Fish,PG-13,Adventure,2003,"January 9, 2004 (United States)",8.0,422000.0,Tim Burton,Daniel Wallace,Ewan McGregor,United States,70000000.0,123218424.0,Columbia Pictures,125.0
+Memories of Murder,Not Rated,Crime,2003,"May 2, 2003 (South Korea)",8.1,152000.0,Bong Joon Ho,Bong Joon Ho,Kang-ho Song,South Korea,2800000.0,1162593.0,CJ Entertainment,132.0
+Finding Nemo,G,Animation,2003,"May 30, 2003 (United States)",8.1,972000.0,Andrew Stanton,Andrew Stanton,Albert Brooks,United States,94000000.0,940352645.0,Pixar Animation Studios,100.0
+Dogville,R,Crime,2003,"April 23, 2004 (United States)",8.0,141000.0,Lars von Trier,Lars von Trier,Nicole Kidman,Denmark,10000000.0,16689283.0,Zentropa Entertainments,178.0
+Eternal Sunshine of the Spotless Mind,R,Drama,2004,"March 19, 2004 (United States)",8.3,935000.0,Michel Gondry,Charlie Kaufman,Jim Carrey,United States,20000000.0,74036715.0,Focus Features,108.0
+Kill Bill: Vol. 2,R,Action,2004,"April 16, 2004 (United States)",8.0,702000.0,Quentin Tarantino,Quentin Tarantino,Uma Thurman,United States,30000000.0,154118820.0,Miramax,137.0
+The Incredibles,PG,Animation,2004,"November 5, 2004 (United States)",8.0,673000.0,Brad Bird,Brad Bird,Craig T. Nelson,United States,92000000.0,631607053.0,Pixar Animation Studios,115.0
+Howl's Moving Castle,PG,Animation,2004,"June 17, 2005 (United States)",8.2,350000.0,Hayao Miyazaki,Hayao Miyazaki,Chieko Baishô,Japan,24000000.0,236214446.0,Buena Vista Home Entertainment,119.0
+Million Dollar Baby,PG-13,Drama,2004,"January 28, 2005 (United States)",8.1,650000.0,Clint Eastwood,Paul Haggis,Hilary Swank,United States,30000000.0,216763646.0,Warner Bros.,132.0
+Before Sunset,R,Drama,2004,"July 30, 2004 (United States)",8.1,244000.0,Richard Linklater,Richard Linklater,Ethan Hawke,United States,2700000.0,15936507.0,Warner Independent Pictures (WIP),80.0
+Hotel Rwanda,PG-13,Biography,2004,"February 4, 2005 (United States)",8.1,340000.0,Terry George,Keir Pearson,Don Cheadle,United Kingdom,17500000.0,33882243.0,United Artists,121.0
+3-Iron,R,Crime,2004,"October 15, 2004 (South Korea)",8.0,52000.0,Kim Ki-duk,Kim Ki-duk,Seung-Yun Lee,South Korea,1000000.0,3403957.0,Kim Ki-Duk Film,88.0
+Tae Guk Gi: The Brotherhood of War,R,Action,2004,"September 24, 2004 (United States)",8.0,38000.0,Je-kyu Kang,Richard Epcar,Jang Dong-Gun,South Korea,12800000.0,76287982.0,Kang Je-Kyu Film Co. Ltd.,140.0
+Batman Begins,PG-13,Action,2005,"June 15, 2005 (United States)",8.2,1300000.0,Christopher Nolan,Bob Kane,Christian Bale,United Kingdom,150000000.0,373661946.0,Warner Bros.,140.0
+Sin City,R,Crime,2005,"April 1, 2005 (United States)",8.0,745000.0,Frank Miller,Frank Miller,Mickey Rourke,United States,40000000.0,158733820.0,Dimension Films,124.0
+V for Vendetta,R,Action,2005,"March 17, 2006 (United States)",8.1,1100000.0,James McTeigue,Lilly Wachowski,Hugo Weaving,United States,54000000.0,132511035.0,Warner Bros.,132.0
+Cinderella Man,PG-13,Biography,2005,"June 3, 2005 (United States)",8.0,179000.0,Ron Howard,Cliff Hollingsworth,Russell Crowe,United States,88000000.0,108539911.0,Universal Pictures,144.0
+The Departed,R,Crime,2006,"October 6, 2006 (United States)",8.5,1200000.0,Martin Scorsese,William Monahan,Leonardo DiCaprio,United States,90000000.0,291465373.0,Warner Bros.,151.0
+The Prestige,PG-13,Drama,2006,"October 20, 2006 (United States)",8.5,1200000.0,Christopher Nolan,Jonathan Nolan,Christian Bale,United Kingdom,40000000.0,109676311.0,Touchstone Pictures,130.0
+Casino Royale,PG-13,Action,2006,"November 17, 2006 (United States)",8.0,594000.0,Martin Campbell,Neal Purvis,Daniel Craig,United Kingdom,150000000.0,616502912.0,Columbia Pictures,144.0
+Pan's Labyrinth,R,Drama,2006,"January 19, 2007 (United States)",8.2,631000.0,Guillermo del Toro,Guillermo del Toro,Ivana Baquero,Spain,19000000.0,83850267.0,Estudios Picasso,118.0
+The Pursuit of Happyness,PG-13,Biography,2006,"December 15, 2006 (United States)",8.0,465000.0,Gabriele Muccino,Steve Conrad,Will Smith,United States,55000000.0,307127625.0,Columbia Pictures,117.0
+Blood Diamond,R,Adventure,2006,"December 8, 2006 (United States)",8.0,511000.0,Edward Zwick,Charles Leavitt,Leonardo DiCaprio,United States,100000000.0,171720398.0,Warner Bros.,143.0
+The Lives of Others,R,Drama,2006,"March 30, 2007 (United States)",8.4,368000.0,Florian Henckel von Donnersmarck,Florian Henckel von Donnersmarck,Ulrich Mühe,Germany,2000000.0,77356942.0,Wiedemann & Berg Filmproduktion,137.0
+There Will Be Blood,R,Drama,2007,"January 25, 2008 (United States)",8.2,535000.0,Paul Thomas Anderson,Paul Thomas Anderson,Daniel Day-Lewis,United States,25000000.0,76182388.0,Paramount Vantage,158.0
+No Country for Old Men,R,Crime,2007,"November 21, 2007 (United States)",8.1,886000.0,Ethan Coen,Joel Coen,Tommy Lee Jones,United States,25000000.0,171627166.0,Paramount Vantage,122.0
+Into the Wild,R,Adventure,2007,"October 19, 2007 (United States)",8.1,588000.0,Sean Penn,Sean Penn,Emile Hirsch,United States,15000000.0,56675895.0,Paramount Vantage,148.0
+Ratatouille,G,Animation,2007,"June 29, 2007 (United States)",8.0,660000.0,Brad Bird,Brad Bird,Brad Garrett,United States,150000000.0,623726085.0,Walt Disney Pictures,111.0
+The Bourne Ultimatum,PG-13,Action,2007,"August 3, 2007 (United States)",8.0,612000.0,Paul Greengrass,Tony Gilroy,Matt Damon,United States,110000000.0,444100035.0,Universal Pictures,115.0
+Elite Squad,R,Action,2007,"October 12, 2007 (Brazil)",8.0,100000.0,José Padilha,André Batista,Wagner Moura,Brazil,4000000.0,14759148.0,Zazen Produções,115.0
+Persepolis,PG-13,Animation,2007,"February 22, 2008 (United States)",8.0,90000.0,Vincent Paronnaud,Marjane Satrapi,Chiara Mastroianni,France,7300000.0,22783978.0,2.4.7. Films,96.0
+The Dark Knight,PG-13,Action,2008,"July 18, 2008 (United States)",9.0,2400000.0,Christopher Nolan,Jonathan Nolan,Christian Bale,United States,185000000.0,1005973645.0,Warner Bros.,152.0
+WALL·E,G,Animation,2008,"June 27, 2008 (United States)",8.4,1000000.0,Andrew Stanton,Andrew Stanton,Ben Burtt,United States,180000000.0,521311890.0,FortyFour Studios,98.0
+Slumdog Millionaire,R,Drama,2008,"December 25, 2008 (United States)",8.0,812000.0,Danny Boyle,Simon Beaufoy,Dev Patel,United Kingdom,15000000.0,378410542.0,Celador Films,120.0
+Gran Torino,R,Drama,2008,"January 9, 2009 (United States)",8.1,734000.0,Clint Eastwood,Nick Schenk,Clint Eastwood,Germany,33000000.0,269958228.0,Matten Productions,116.0
+Waltz with Bashir,R,Animation,2008,"June 12, 2008 (Israel)",8.0,56000.0,Ari Folman,Ari Folman,Ari Folman,Israel,1500000.0,11179372.0,Bridgit Folman Film Gang,90.0
+Inglourious Basterds,R,Adventure,2009,"August 21, 2009 (United States)",8.3,1300000.0,Quentin Tarantino,Quentin Tarantino,Brad Pitt,United States,70000000.0,321457747.0,Universal Pictures,153.0
+Up,PG,Animation,2009,"May 29, 2009 (United States)",8.2,962000.0,Pete Docter,Pete Docter,Edward Asner,United States,175000000.0,735099102.0,Pixar Animation Studios,96.0
+The Secret in Their Eyes,R,Drama,2009,"May 21, 2010 (United States)",8.2,198000.0,Juan José Campanella,Eduardo Sacheri,Ricardo Darín,Argentina,2000000.0,35079650.0,Tornasol Films,129.0
+Inception,PG-13,Action,2010,"July 16, 2010 (United States)",8.8,2100000.0,Christopher Nolan,Christopher Nolan,Leonardo DiCaprio,United States,160000000.0,836836967.0,Warner Bros.,148.0
+Shutter Island,R,Mystery,2010,"February 19, 2010 (United States)",8.2,1200000.0,Martin Scorsese,Laeta Kalogridis,Leonardo DiCaprio,United States,80000000.0,294805697.0,Paramount Pictures,138.0
+Black Swan,R,Drama,2010,"December 17, 2010 (United States)",8.0,716000.0,Darren Aronofsky,Mark Heyman,Natalie Portman,United States,13000000.0,329398046.0,Fox Searchlight Pictures,108.0
+How to Train Your Dragon,PG,Animation,2010,"March 26, 2010 (United States)",8.1,685000.0,Dean DeBlois,William Davies,Jay Baruchel,United States,165000000.0,494879471.0,DreamWorks Animation,98.0
+Incendies,R,Drama,2010,"January 12, 2011 (France)",8.3,158000.0,Denis Villeneuve,Denis Villeneuve,Lubna Azabal,Canada,6800000.0,7099598.0,micro_scope,131.0
+Toy Story 3,G,Animation,2010,"June 18, 2010 (United States)",8.2,776000.0,Lee Unkrich,John Lasseter,Tom Hanks,United States,200000000.0,1066970811.0,Walt Disney Pictures,103.0
+The King's Speech,R,Biography,2010,"December 25, 2010 (United States)",8.0,651000.0,Tom Hooper,David Seidler,Colin Firth,United Kingdom,15000000.0,427374317.0,The Weinstein Company,118.0
+My Name Is Khan,PG-13,Drama,2010,"February 12, 2010 (United States)",8.0,101000.0,Karan Johar,Shibani Bathija,Shah Rukh Khan,India,12000000.0,42345360.0,Dharma Productions,165.0
+Harry Potter and the Deathly Hallows: Part 2,PG-13,Adventure,2011,"July 15, 2011 (United States)",8.1,790000.0,David Yates,Steve Kloves,Daniel Radcliffe,United Kingdom,125000000.0,1342321665.0,Warner Bros.,130.0
+The Help,PG-13,Drama,2011,"August 10, 2011 (United States)",8.0,436000.0,Tate Taylor,Tate Taylor,Emma Stone,United States,25000000.0,216639112.0,DreamWorks,146.0
+Warrior,PG-13,Action,2011,"September 9, 2011 (United States)",8.1,445000.0,Gavin O'Connor,Gavin O'Connor,Tom Hardy,United States,25000000.0,23308615.0,Lionsgate,140.0
+A Separation,PG-13,Drama,2011,"March 16, 2011 (Iran)",8.3,227000.0,Asghar Farhadi,Asghar Farhadi,Payman Maadi,Iran,500000.0,22926076.0,Asghar Farhadi Productions,123.0
+The Avengers,PG-13,Action,2012,"May 4, 2012 (United States)",8.0,1300000.0,Joss Whedon,Joss Whedon,Robert Downey Jr.,United States,220000000.0,1518815515.0,Marvel Studios,143.0
+Django Unchained,R,Drama,2012,"December 25, 2012 (United States)",8.4,1400000.0,Quentin Tarantino,Quentin Tarantino,Jamie Foxx,United States,100000000.0,426074373.0,The Weinstein Company,165.0
+The Dark Knight Rises,PG-13,Action,2012,"July 20, 2012 (United States)",8.4,1600000.0,Christopher Nolan,Jonathan Nolan,Christian Bale,United Kingdom,250000000.0,1081142612.0,Warner Bros.,164.0
+The Hunt,R,Drama,2012,"January 10, 2013 (Denmark)",8.3,297000.0,Thomas Vinterberg,Tobias Lindholm,Mads Mikkelsen,Denmark,3800000.0,15843274.0,Danmarks Radio (DR),115.0
+The Wolf of Wall Street,R,Biography,2013,"December 25, 2013 (United States)",8.2,1200000.0,Martin Scorsese,Terence Winter,Leonardo DiCaprio,United States,100000000.0,392000694.0,Red Granite Pictures,180.0
+Prisoners,R,Crime,2013,"September 20, 2013 (United States)",8.1,625000.0,Denis Villeneuve,Aaron Guzikowski,Hugh Jackman,United States,46000000.0,122126687.0,Alcon Entertainment,153.0
+Her,R,Drama,2013,"January 10, 2014 (United States)",8.0,559000.0,Spike Jonze,Spike Jonze,Joaquin Phoenix,United States,23000000.0,48517427.0,Annapurna Pictures,126.0
+Rush,R,Action,2013,"September 27, 2013 (United States)",8.1,446000.0,Ron Howard,Peter Morgan,Daniel Brühl,United Kingdom,38000000.0,96983009.0,Exclusive Media Group,123.0
+12 Years a Slave,R,Biography,2013,"November 8, 2013 (United States)",8.1,657000.0,Steve McQueen,John Ridley,Chiwetel Ejiofor,United States,20000000.0,187733202.0,New Regency Productions,134.0
+Dallas Buyers Club,R,Biography,2013,"November 22, 2013 (United States)",8.0,455000.0,Jean-Marc Vallée,Craig Borten,Matthew McConaughey,United States,5000000.0,55736588.0,Truth Entertainment (II),117.0
+Guardians of the Galaxy,PG-13,Action,2014,"August 1, 2014 (United States)",8.0,1100000.0,James Gunn,James Gunn,Chris Pratt,United States,170000000.0,773350147.0,Marvel Studios,121.0
+Interstellar,PG-13,Adventure,2014,"November 7, 2014 (United States)",8.6,1600000.0,Christopher Nolan,Jonathan Nolan,Matthew McConaughey,United States,165000000.0,701729206.0,Paramount Pictures,169.0
+Gone Girl,R,Drama,2014,"October 3, 2014 (United States)",8.1,893000.0,David Fincher,Gillian Flynn,Ben Affleck,United States,61000000.0,369330363.0,Twentieth Century Fox,149.0
+The Grand Budapest Hotel,R,Adventure,2014,"March 28, 2014 (United States)",8.1,734000.0,Wes Anderson,Stefan Zweig,Ralph Fiennes,United States,25000000.0,172945750.0,Fox Searchlight Pictures,99.0
+Whiplash,R,Drama,2014,"October 15, 2014 (Philippines)",8.5,749000.0,Damien Chazelle,Damien Chazelle,Miles Teller,United States,3300000.0,49396747.0,Bold Films,106.0
+The Imitation Game,PG-13,Biography,2014,"December 25, 2014 (United States)",8.0,707000.0,Morten Tyldum,Graham Moore,Benedict Cumberbatch,United Kingdom,14000000.0,233555708.0,Black Bear Pictures,114.0
+Wild Tales,R,Comedy,2014,"August 21, 2014 (Argentina)",8.1,184000.0,Damián Szifron,Germán Servidio,Darío Grandinetti,Argentina,3300000.0,30642704.0,Kramer & Sigman Films,122.0
+The Raid 2,R,Action,2014,"April 11, 2014 (United States)",8.0,117000.0,Gareth Evans,Gareth Evans,Iko Uwais,Indonesia,4500000.0,6566916.0,Sony Pictures Classics,150.0
+Mad Max: Fury Road,R,Action,2015,"May 15, 2015 (United States)",8.1,912000.0,George Miller,George Miller,Tom Hardy,Australia,150000000.0,375658750.0,Warner Bros.,120.0
+The Revenant,R,Action,2015,"January 8, 2016 (United States)",8.0,729000.0,Alejandro G. Iñárritu,Mark L. Smith,Leonardo DiCaprio,United States,135000000.0,532950503.0,New Regency Productions,156.0
+The Martian,PG-13,Adventure,2015,"October 2, 2015 (United States)",8.0,783000.0,Ridley Scott,Drew Goddard,Matt Damon,United Kingdom,108000000.0,630162448.0,Twentieth Century Fox,144.0
+Room,R,Drama,2015,"January 22, 2016 (United States)",8.1,386000.0,Lenny Abrahamson,Emma Donoghue,Brie Larson,Canada,13000000.0,35401758.0,Element Pictures,118.0
+Inside Out,PG,Animation,2015,"June 19, 2015 (United States)",8.1,641000.0,Pete Docter,Pete Docter,Amy Poehler,United States,175000000.0,858848019.0,Pixar Animation Studios,95.0
+Spotlight,R,Biography,2015,"November 20, 2015 (United States)",8.1,435000.0,Tom McCarthy,Josh Singer,Mark Ruffalo,United States,20000000.0,98690254.0,Participant,129.0
+Baahubali: The Beginning,Not Rated,Action,2015,"July 9, 2015 (United States)",8.0,107000.0,S.S. Rajamouli,Vijayendra Prasad,Prabhas,India,18026148.0,24548038.0,Arka Mediaworks,159.0
+Deadpool,R,Action,2016,"February 12, 2016 (United States)",8.0,932000.0,Tim Miller,Rhett Reese,Ryan Reynolds,United States,58000000.0,782836791.0,Twentieth Century Fox,108.0
+La La Land,PG-13,Comedy,2016,"December 25, 2016 (United States)",8.0,527000.0,Damien Chazelle,Damien Chazelle,Ryan Gosling,United States,30000000.0,448906865.0,Summit Entertainment,128.0
+Zootopia,PG,Animation,2016,"March 4, 2016 (United States)",8.0,450000.0,Byron Howard,Byron Howard,Ginnifer Goodwin,United States,150000000.0,1024121104.0,Walt Disney Pictures,108.0
+Hacksaw Ridge,R,Biography,2016,"November 4, 2016 (United States)",8.1,457000.0,Mel Gibson,Robert Schenkkan,Andrew Garfield,Australia,40000000.0,180563636.0,Summit Entertainment,139.0
+Lion,PG-13,Biography,2016,"January 6, 2017 (United States)",8.0,221000.0,Garth Davis,Saroo Brierley,Dev Patel,United Kingdom,12000000.0,140853810.0,The Weinstein Company,118.0
+Blade Runner 2049,R,Action,2017,"October 6, 2017 (United States)",8.0,486000.0,Denis Villeneuve,Hampton Fancher,Harrison Ford,United States,150000000.0,259334548.0,Alcon Entertainment,164.0
+Coco,PG,Animation,2017,"November 22, 2017 (United States)",8.4,417000.0,Lee Unkrich,Lee Unkrich,Anthony Gonzalez,United States,175000000.0,807817888.0,Walt Disney Pictures,105.0
+Logan,R,Action,2017,"March 3, 2017 (United States)",8.1,674000.0,James Mangold,James Mangold,Hugh Jackman,United States,97000000.0,619179950.0,Twentieth Century Fox,137.0
+Wonder,PG,Drama,2017,"November 17, 2017 (United States)",8.0,150000.0,Stephen Chbosky,Stephen Chbosky,Jacob Tremblay,United States,20000000.0,306209289.0,Lionsgate,113.0
+"Three Billboards Outside Ebbing, Missouri",R,Comedy,2017,"December 1, 2017 (United States)",8.1,456000.0,Martin McDonagh,Martin McDonagh,Frances McDormand,United Kingdom,15000000.0,160192267.0,Blueprint Pictures,115.0
+Avengers: Infinity War,PG-13,Action,2018,"April 27, 2018 (United States)",8.4,897000.0,Anthony Russo,Christopher Markus,Robert Downey Jr.,United States,321000000.0,2048359754.0,Marvel Studios,149.0
+Spider-Man: Into the Spider-Verse,PG,Animation,2018,"December 14, 2018 (United States)",8.4,411000.0,Bob Persichetti,Phil Lord,Shameik Moore,United States,90000000.0,375540831.0,Sony Pictures Entertainment (SPE),117.0
+Green Book,PG-13,Biography,2018,"November 16, 2018 (United States)",8.2,414000.0,Peter Farrelly,Nick Vallelonga,Viggo Mortensen,United States,23000000.0,321752656.0,Participant,130.0
+Capharnaüm,R,Drama,2018,"September 20, 2018 (Lebanon)",8.4,71000.0,Nadine Labaki,Nadine Labaki,Zain Al Rafeea,Lebanon,4000000.0,64417003.0,Mooz Films,126.0
+Andhadhun,Not Rated,Crime,2018,"October 5, 2018 (United States)",8.2,79000.0,Sriram Raghavan,Arijit Biswas,Ayushmann Khurrana,India,4500000.0,62475342.0,Matchbox Pictures,139.0
+Avengers: Endgame,PG-13,Action,2019,"April 26, 2019 (United States)",8.4,903000.0,Anthony Russo,Christopher Markus,Robert Downey Jr.,United States,356000000.0,2797501328.0,Marvel Studios,181.0
+Joker,R,Crime,2019,"October 4, 2019 (United States)",8.4,1000000.0,Todd Phillips,Todd Phillips,Joaquin Phoenix,United States,55000000.0,1074427370.0,Warner Bros.,122.0
+Parasite,R,Comedy,2019,"November 8, 2019 (United States)",8.6,631000.0,Bong Joon Ho,Bong Joon Ho,Kang-ho Song,South Korea,11400000.0,258908054.0,Barunson E&A,132.0
+1917,R,Drama,2019,"January 10, 2020 (United States)",8.3,473000.0,Sam Mendes,Sam Mendes,Dean-Charles Chapman,United States,95000000.0,384623579.0,Dreamworks Pictures,119.0
+Ford v Ferrari,PG-13,Action,2019,"November 15, 2019 (United States)",8.1,323000.0,James Mangold,Jez Butterworth,Matt Damon,United States,97600000.0,225508210.0,Chernin Entertainment,152.0
